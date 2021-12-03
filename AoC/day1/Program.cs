@@ -2,9 +2,9 @@
 using System.IO;
 namespace AoC
 {
-    class Program
+    class Day1
     {
-        public static void Main(string[] args)
+        public static void Solve(string[] args)
         {
             Console.WriteLine(problem1(@"C:\Users\SEOLSSONJESP\source\repos\AoC\AoC\day1\input.txt"));
             Console.WriteLine(problem2(@"C:\Users\SEOLSSONJESP\source\repos\AoC\AoC\day1\input.txt"));

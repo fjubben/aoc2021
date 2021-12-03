@@ -1,0 +1,5 @@
+.vs/*
+AoC/AoC.csproj.user
+AoC/bin/*
+AoC/obj/*
+
