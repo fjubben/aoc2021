@@ -4,7 +4,7 @@ namespace AoC
 {
     class Day3
     {
-        public static void Main(string[] args)
+        public static void Solve(string[] args)
         {
            // problem1(@"C:\Users\jesols\workspace\aoc2021\AoC\day3\input.txt");
             problem2(@"C:\Users\jesols\workspace\aoc2021\AoC\day3\input.txt");
